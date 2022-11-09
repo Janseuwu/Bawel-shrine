@@ -1,0 +1,96 @@
+h1 {
+    color: purple;
+    margin: auto;
+    width: 99%;
+    font-size: 46px;
+
+}
+
+h2 {
+    font-size: 39px; 
+    margin-top: 79px; 
+    margin-bottom: -1px;
+    margin-right: -1px;
+    margin-left: -1px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 44%;
+    text-align: center;
+}
+
+.leftpics {
+    max-width: 99%;
+    margin-bottom: 9px;
+}
+
+.rightpics {
+    max-width: 99%;
+    margin-bottom: 9px;
+}
+
+body > * {
+    font-family: 'Gill Sans MT';
+}
+
+.floatRight{
+    float: right;
+    width: 299px;
+    margin-right: 74px;
+    position: relative;
+    top: -694px;
+}
+
+.floatLeft {
+    float: left;
+    width: 299px;
+    margin-left: 74px;
+    position: relative; 
+    top: -694px;
+}
+
+ul {
+    list-style-image: circle;
+}
+
+li {
+    font-size: 19px;
+    width: 69%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+}
+
+a {
+    color: magenta;
+}
+
+a:hover {
+    color: purple;
+}
+
+.tanks {
+    width: auto;
+    height: 199px;
+}
+
+.clips {
+    width: 699px;
+    height: auto;
+}
+
+::-webkit-scrollbar {
+    width: 9px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: purple;
+    border-radius: 9px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: magenta;
+}
